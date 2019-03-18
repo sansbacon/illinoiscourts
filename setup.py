@@ -1,11 +1,11 @@
 from setuptools import setup
 
-setup(name='sportscraper',
+setup(name='illinoiscourts',
       version='0.1',
-      description='sportscraper python library',
-      url='http://github.com/sansbacon/sportscraper',
+      description='illinoiscourts python library',
+      url='http://github.com/sansbacon/illinoiscourts',
       author='Eric Truett',
       author_email='eric@erictruett.com',
       license='MIT',
-      packages=['sportscraper'],
+      packages=['illinoiscourts'],
       zip_safe=False)
